@@ -1,0 +1,557 @@
+SAMN19573137
+SAMN19573136
+SAMN19573135
+SAMN19572947
+SAMN19572940
+SAMN19572941
+SAMN19569757
+SAMN19569756
+SAMN19569755
+SAMN19569754
+SAMN19569753
+SAMN19569752
+SAMN19569667
+SAMN19569666
+SAMN02645653
+      <Genbank>GCA_000590275.1</Genbank>
+SAMN02645661
+      <Genbank>GCA_000589875.1</Genbank>
+SAMN02645669
+      <Genbank>GCA_000590195.1</Genbank>
+SAMN02645663
+      <Genbank>GCA_000590115.1</Genbank>
+SAMN02645654
+      <Genbank>GCA_000590095.1</Genbank>
+SAMN02645652
+      <Genbank>GCA_000589995.1</Genbank>
+SAMN02645651
+      <Genbank>GCA_000589975.1</Genbank>
+SAMN02645657
+      <Genbank>GCA_000589955.1</Genbank>
+SAMN02645656
+      <Genbank>GCA_000589935.1</Genbank>
+SAMN02645660
+      <Genbank>GCA_000589895.1</Genbank>
+SAMN08322979
+      <Genbank>GCA_002879955.1</Genbank>
+SAMN36346923
+      <Genbank>GCA_035023305.1</Genbank>
+SAMN36368316
+      <Genbank>GCA_035025285.1</Genbank>
+SAMN36368395
+      <Genbank>GCA_035023085.1</Genbank>
+SAMN36368394
+      <Genbank>GCA_035023185.1</Genbank>
+SAMN36368393
+      <Genbank>GCA_035023165.1</Genbank>
+SAMN36368392
+      <Genbank>GCA_035023145.1</Genbank>
+SAMN36368391
+      <Genbank>GCA_035025485.1</Genbank>
+SAMN36368390
+      <Genbank>GCA_035025445.1</Genbank>
+SAMN36368389
+      <Genbank>GCA_035023045.1</Genbank>
+SAMN36368388
+      <Genbank>GCA_035023125.1</Genbank>
+SAMN36368387
+      <Genbank>GCA_035023105.1</Genbank>
+SAMN36368315
+      <Genbank>GCA_035023065.1</Genbank>
+SAMN36368386
+      <Genbank>GCA_035025525.1</Genbank>
+SAMN36368385
+      <Genbank>GCA_035025245.1</Genbank>
+SAMN36368384
+      <Genbank>GCA_035025365.1</Genbank>
+SAMN36368383
+      <Genbank>GCA_035025265.1</Genbank>
+SAMN36368382
+      <Genbank>GCA_035025305.1</Genbank>
+SAMN36368381
+      <Genbank>GCA_035025425.1</Genbank>
+SAMN36368380
+      <Genbank>GCA_035025345.1</Genbank>
+SAMN36368379
+      <Genbank>GCA_035025385.1</Genbank>
+SAMN36368378
+      <Genbank>GCA_035025325.1</Genbank>
+SAMN36368377
+      <Genbank>GCA_035025225.1</Genbank>
+SAMN36368314
+      <Genbank>GCA_035025805.1</Genbank>
+SAMN36368376
+      <Genbank>GCA_035025205.1</Genbank>
+SAMN36368375
+      <Genbank>GCA_035025165.1</Genbank>
+SAMN36368374
+      <Genbank>GCA_035025685.1</Genbank>
+SAMN36368373
+      <Genbank>GCA_035025625.1</Genbank>
+SAMN36368372
+      <Genbank>GCA_035025705.1</Genbank>
+SAMN36368371
+      <Genbank>GCA_035025505.3</Genbank>
+SAMN36368370
+      <Genbank>GCA_035025825.1</Genbank>
+SAMN36368368
+      <Genbank>GCA_035025605.1</Genbank>
+SAMN36368367
+      <Genbank>GCA_035025565.1</Genbank>
+SAMN36368313
+      <Genbank>GCA_035025725.1</Genbank>
+SAMN36368366
+      <Genbank>GCA_035025785.1</Genbank>
+SAMN36368365
+      <Genbank>GCA_035025865.1</Genbank>
+SAMN36368364
+      <Genbank>GCA_035025545.1</Genbank>
+SAMN36368363
+      <Genbank>GCA_035025905.1</Genbank>
+SAMN36368362
+      <Genbank>GCA_035025885.2</Genbank>
+SAMN36368361
+      <Genbank>GCA_035025845.1</Genbank>
+SAMN36368360
+      <Genbank>GCA_035025665.1</Genbank>
+SAMN36368359
+      <Genbank>GCA_035023985.1</Genbank>
+SAMN36368358
+      <Genbank>GCA_035023965.1</Genbank>
+SAMN36368357
+      <Genbank>GCA_035025765.1</Genbank>
+SAMN36368312
+      <Genbank>GCA_035025745.1</Genbank>
+SAMN36368356
+      <Genbank>GCA_035025645.1</Genbank>
+SAMN36368355
+      <Genbank>GCA_035023905.1</Genbank>
+SAMN36368354
+      <Genbank>GCA_035023945.1</Genbank>
+SAMN36368353
+      <Genbank>GCA_035024025.1</Genbank>
+SAMN36368352
+      <Genbank>GCA_035023865.1</Genbank>
+SAMN36368351
+      <Genbank>GCA_035024005.1</Genbank>
+SAMN36368350
+      <Genbank>GCA_035023925.1</Genbank>
+SAMN36368349
+      <Genbank>GCA_035023885.1</Genbank>
+SAMN36368348
+      <Genbank>GCA_035023645.1</Genbank>
+SAMN36368347
+      <Genbank>GCA_035025965.1</Genbank>
+SAMN36368311
+      <Genbank>GCA_035023845.1</Genbank>
+SAMN36368346
+      <Genbank>GCA_035025985.1</Genbank>
+SAMN36368345
+      <Genbank>GCA_035025945.1</Genbank>
+SAMN36368344
+      <Genbank>GCA_035023725.1</Genbank>
+SAMN36368343
+      <Genbank>GCA_035023605.1</Genbank>
+SAMN36368342
+      <Genbank>GCA_035023655.1</Genbank>
+SAMN36368341
+      <Genbank>GCA_035023545.1</Genbank>
+SAMN36368340
+      <Genbank>GCA_035025925.1</Genbank>
+SAMN36368339
+      <Genbank>GCA_035023705.1</Genbank>
+SAMN36368338
+      <Genbank>GCA_035023685.1</Genbank>
+SAMN36368337
+      <Genbank>GCA_035023405.1</Genbank>
+SAMN36368310
+      <Genbank>GCA_035023765.1</Genbank>
+SAMN36368336
+      <Genbank>GCA_035023365.1</Genbank>
+SAMN36368335
+      <Genbank>GCA_035023625.1</Genbank>
+SAMN36368334
+      <Genbank>GCA_035023585.1</Genbank>
+SAMN36368333
+      <Genbank>GCA_035023565.1</Genbank>
+SAMN36368332
+      <Genbank>GCA_035023505.1</Genbank>
+SAMN36368331
+      <Genbank>GCA_035023485.1</Genbank>
+SAMN36368329
+      <Genbank>GCA_035023825.1</Genbank>
+SAMN36368328
+      <Genbank>GCA_035023465.1</Genbank>
+SAMN36368327
+      <Genbank>GCA_035023445.1</Genbank>
+SAMN36368309
+      <Genbank>GCA_035023425.1</Genbank>
+SAMN36368326
+      <Genbank>GCA_035023385.1</Genbank>
+SAMN36368325
+      <Genbank>GCA_035023785.1</Genbank>
+SAMN36368324
+      <Genbank>GCA_035023745.1</Genbank>
+SAMN36368323
+      <Genbank>GCA_035023805.1</Genbank>
+SAMN36368322
+      <Genbank>GCA_035023525.1</Genbank>
+SAMN36368321
+      <Genbank>GCA_035023025.1</Genbank>
+SAMN36368320
+SAMN36368319
+SAMN36368318
+SAMN36368308
+SAMN36368307
+SAMN36346928
+      <Genbank>GCA_035026725.1</Genbank>
+SAMN36346927
+      <Genbank>GCA_035026965.1</Genbank>
+SAMN36346926
+      <Genbank>GCA_035026985.1</Genbank>
+SAMN36346925
+      <Genbank>GCA_035026905.1</Genbank>
+SAMN36346976
+      <Genbank>GCA_035026805.1</Genbank>
+SAMN36346973
+      <Genbank>GCA_035026785.1</Genbank>
+SAMN36346972
+      <Genbank>GCA_035026845.1</Genbank>
+SAMN36346969
+      <Genbank>GCA_035026485.1</Genbank>
+SAMN36346924
+      <Genbank>GCA_035026605.1</Genbank>
+SAMN36346968
+      <Genbank>GCA_035026645.1</Genbank>
+SAMN36346967
+      <Genbank>GCA_035026705.1</Genbank>
+SAMN36346966
+      <Genbank>GCA_035026665.1</Genbank>
+SAMN36346965
+      <Genbank>GCA_035026625.1</Genbank>
+SAMN36346954
+      <Genbank>GCA_035026445.1</Genbank>
+SAMN36346953
+      <Genbank>GCA_035026425.1</Genbank>
+SAMN36346952
+      <Genbank>GCA_035026385.1</Genbank>
+SAMN36346951
+      <Genbank>GCA_035026305.1</Genbank>
+SAMN36346950
+      <Genbank>GCA_035026125.1</Genbank>
+SAMN36346949
+      <Genbank>GCA_035026025.1</Genbank>
+SAMN36346922
+      <Genbank>GCA_035026185.1</Genbank>
+SAMN36346947
+      <Genbank>GCA_035026265.1</Genbank>
+SAMN36346943
+      <Genbank>GCA_035026105.1</Genbank>
+SAMN36346941
+      <Genbank>GCA_035026085.1</Genbank>
+SAMN36346940
+      <Genbank>GCA_035026145.1</Genbank>
+SAMN36346939
+      <Genbank>GCA_035023325.1</Genbank>
+SAMN36346936
+      <Genbank>GCA_035026065.1</Genbank>
+SAMN36346934
+      <Genbank>GCA_035025405.1</Genbank>
+SAMN36346933
+      <Genbank>GCA_035026045.1</Genbank>
+SAMN36346932
+      <Genbank>GCA_035023205.1</Genbank>
+SAMN36346930
+      <Genbank>GCA_035023265.1</Genbank>
+SAMN36346929
+      <Genbank>GCA_035023245.1</Genbank>
+SAMN36346920
+      <Genbank>GCA_035023225.1</Genbank>
+SAMN36346919
+      <Genbank>GCA_035025465.1</Genbank>
+SAMN36348501
+      <Genbank>GCA_035059455.1</Genbank>
+SAMN36348500
+      <Genbank>GCA_035059975.1</Genbank>
+SAMN36348499
+      <Genbank>GCA_035059615.1</Genbank>
+SAMN36348498
+      <Genbank>GCA_035059585.2</Genbank>
+SAMN36348496
+      <Genbank>GCA_035059025.1</Genbank>
+SAMN36348495
+      <Genbank>GCA_035059435.1</Genbank>
+SAMN36348439
+      <Genbank>GCA_035059375.1</Genbank>
+SAMN36348494
+      <Genbank>GCA_035059535.1</Genbank>
+SAMN36348493
+      <Genbank>GCA_035059505.1</Genbank>
+SAMN36348488
+      <Genbank>GCA_035059395.2</Genbank>
+SAMN36348487
+      <Genbank>GCA_035059085.1</Genbank>
+SAMN36348486
+      <Genbank>GCA_035058525.1</Genbank>
+SAMN36348485
+      <Genbank>GCA_035059305.1</Genbank>
+SAMN36348484
+      <Genbank>GCA_035059245.1</Genbank>
+SAMN36348483
+      <Genbank>GCA_035059065.1</Genbank>
+SAMN36348438
+      <Genbank>GCA_035059185.1</Genbank>
+SAMN36348482
+      <Genbank>GCA_035058795.1</Genbank>
+SAMN36348481
+      <Genbank>GCA_035058625.1</Genbank>
+SAMN36348480
+      <Genbank>GCA_035058365.1</Genbank>
+SAMN36348479
+      <Genbank>GCA_035058925.1</Genbank>
+SAMN36348478
+      <Genbank>GCA_035059005.1</Genbank>
+SAMN36348477
+      <Genbank>GCA_035059075.1</Genbank>
+SAMN36348476
+      <Genbank>GCA_035058875.1</Genbank>
+SAMN36348475
+      <Genbank>GCA_035058335.1</Genbank>
+SAMN36348473
+      <Genbank>GCA_035058615.1</Genbank>
+SAMN36348471
+      <Genbank>GCA_035058725.1</Genbank>
+SAMN36348442
+      <Genbank>GCA_035027385.1</Genbank>
+SAMN36348441
+      <Genbank>GCA_035058545.1</Genbank>
+SAMN36348510
+      <Genbank>GCA_035027585.1</Genbank>
+SAMN36348509
+      <Genbank>GCA_035027345.1</Genbank>
+SAMN36348508
+      <Genbank>GCA_035058605.1</Genbank>
+SAMN36348507
+      <Genbank>GCA_035058325.1</Genbank>
+SAMN36348506
+      <Genbank>GCA_035027365.1</Genbank>
+SAMN36348505
+      <Genbank>GCA_035027625.1</Genbank>
+SAMN36348440
+      <Genbank>GCA_035027525.1</Genbank>
+SAMN36348504
+      <Genbank>GCA_035059315.1</Genbank>
+SAMN36348503
+      <Genbank>GCA_035027305.1</Genbank>
+SAMN36348502
+      <Genbank>GCA_035027605.3</Genbank>
+SAMN36348470
+      <Genbank>GCA_035027645.1</Genbank>
+SAMN36348469
+      <Genbank>GCA_035059355.1</Genbank>
+SAMN36348468
+      <Genbank>GCA_035027565.3</Genbank>
+SAMN36348467
+      <Genbank>GCA_035027545.1</Genbank>
+SAMN36348465
+      <Genbank>GCA_035027485.1</Genbank>
+SAMN36348464
+      <Genbank>GCA_035027505.1</Genbank>
+SAMN36348463
+      <Genbank>GCA_035027465.1</Genbank>
+SAMN36348462
+      <Genbank>GCA_035027425.1</Genbank>
+SAMN36348460
+      <Genbank>GCA_035027125.1</Genbank>
+SAMN36348459
+      <Genbank>GCA_035027325.1</Genbank>
+SAMN36348458
+      <Genbank>GCA_035027405.1</Genbank>
+SAMN36348457
+      <Genbank>GCA_035027285.1</Genbank>
+SAMN36348456
+      <Genbank>GCA_035058355.1</Genbank>
+SAMN36348455
+      <Genbank>GCA_035027145.1</Genbank>
+SAMN36348454
+      <Genbank>GCA_035026945.1</Genbank>
+SAMN36348453
+      <Genbank>GCA_035027205.1</Genbank>
+SAMN36348452
+      <Genbank>GCA_035027225.1</Genbank>
+SAMN36348451
+      <Genbank>GCA_035027185.1</Genbank>
+SAMN36348450
+      <Genbank>GCA_035026925.1</Genbank>
+SAMN36348449
+      <Genbank>GCA_035027025.1</Genbank>
+SAMN36348448
+      <Genbank>GCA_035026465.1</Genbank>
+SAMN36348447
+      <Genbank>GCA_035027045.1</Genbank>
+SAMN36348446
+      <Genbank>GCA_035027155.1</Genbank>
+SAMN36348445
+      <Genbank>GCA_035027105.1</Genbank>
+SAMN36348444
+      <Genbank>GCA_035027065.1</Genbank>
+SAMN36348443
+      <Genbank>GCA_035026825.1</Genbank>
+SAMN36346323
+      <Genbank>GCA_035060555.1</Genbank>
+SAMN36315960
+      <Genbank>GCA_035012465.1</Genbank>
+SAMN36315956
+      <Genbank>GCA_035014085.1</Genbank>
+SAMN36001472
+      <Genbank>GCA_034554195.1</Genbank>
+SAMN36001545
+      <Genbank>GCA_034554165.1</Genbank>
+SAMN36001544
+      <Genbank>GCA_034554115.1</Genbank>
+SAMN36001543
+      <Genbank>GCA_034554135.1</Genbank>
+SAMN36001471
+      <Genbank>GCA_034554155.1</Genbank>
+SAMN36001542
+      <Genbank>GCA_034554095.1</Genbank>
+SAMN36001541
+      <Genbank>GCA_034554075.1</Genbank>
+SAMN36001540
+      <Genbank>GCA_034554035.1</Genbank>
+SAMN36001539
+      <Genbank>GCA_034554015.1</Genbank>
+SAMN36001538
+      <Genbank>GCA_034553995.1</Genbank>
+SAMN36001537
+      <Genbank>GCA_034554055.1</Genbank>
+SAMN36001536
+      <Genbank>GCA_034553975.1</Genbank>
+SAMN36001535
+      <Genbank>GCA_034553955.1</Genbank>
+SAMN36001533
+      <Genbank>GCA_034553895.1</Genbank>
+SAMN36001532
+      <Genbank>GCA_034553855.1</Genbank>
+SAMN36001531
+      <Genbank>GCA_034553835.1</Genbank>
+SAMN36001530
+      <Genbank>GCA_034553815.1</Genbank>
+SAMN36001529
+      <Genbank>GCA_034553795.1</Genbank>
+SAMN36001528
+      <Genbank>GCA_034553775.1</Genbank>
+SAMN36001527
+      <Genbank>GCA_034553755.1</Genbank>
+SAMN36001526
+      <Genbank>GCA_034553735.1</Genbank>
+SAMN36001525
+      <Genbank>GCA_034553715.1</Genbank>
+SAMN36001524
+      <Genbank>GCA_034553695.1</Genbank>
+SAMN36001523
+      <Genbank>GCA_034553675.1</Genbank>
+SAMN36001522
+      <Genbank>GCA_034553615.1</Genbank>
+SAMN36001521
+      <Genbank>GCA_034553595.1</Genbank>
+SAMN36001520
+      <Genbank>GCA_034553635.1</Genbank>
+SAMN36001519
+      <Genbank>GCA_034553535.1</Genbank>
+SAMN36001518
+      <Genbank>GCA_034553555.1</Genbank>
+SAMN36001517
+      <Genbank>GCA_034553575.1</Genbank>
+SAMN36001515
+      <Genbank>GCA_034553455.1</Genbank>
+SAMN36001514
+      <Genbank>GCA_034553475.1</Genbank>
+SAMN36001513
+      <Genbank>GCA_034553515.1</Genbank>
+SAMN36001468
+      <Genbank>GCA_034553465.1</Genbank>
+SAMN36001512
+      <Genbank>GCA_034553435.1</Genbank>
+SAMN36001511
+      <Genbank>GCA_034553375.1</Genbank>
+SAMN36001510
+      <Genbank>GCA_034553365.1</Genbank>
+SAMN36001509
+      <Genbank>GCA_034553355.1</Genbank>
+SAMN36001508
+      <Genbank>GCA_034553385.1</Genbank>
+SAMN36001507
+      <Genbank>GCA_034553335.1</Genbank>
+SAMN36001506
+      <Genbank>GCA_034553275.1</Genbank>
+SAMN36001505
+      <Genbank>GCA_034553085.1</Genbank>
+SAMN36001504
+      <Genbank>GCA_034553265.1</Genbank>
+SAMN36001502
+      <Genbank>GCA_034553285.1</Genbank>
+SAMN36001501
+      <Genbank>GCA_034553255.1</Genbank>
+SAMN36001500
+      <Genbank>GCA_034553235.1</Genbank>
+SAMN36001499
+      <Genbank>GCA_034553105.1</Genbank>
+SAMN36001498
+      <Genbank>GCA_034553035.1</Genbank>
+SAMN36001497
+      <Genbank>GCA_034553055.1</Genbank>
+SAMN36001496
+      <Genbank>GCA_034553015.1</Genbank>
+SAMN36001495
+      <Genbank>GCA_034552995.1</Genbank>
+SAMN36001494
+      <Genbank>GCA_034552975.1</Genbank>
+SAMN36001493
+      <Genbank>GCA_034552955.1</Genbank>
+SAMN36001466
+      <Genbank>GCA_034552935.1</Genbank>
+SAMN36001491
+      <Genbank>GCA_034552895.1</Genbank>
+SAMN36001490
+      <Genbank>GCA_034552875.1</Genbank>
+SAMN36001489
+      <Genbank>GCA_034552855.1</Genbank>
+SAMN36001488
+      <Genbank>GCA_034552815.1</Genbank>
+SAMN36001487
+      <Genbank>GCA_034552835.1</Genbank>
+SAMN36001486
+      <Genbank>GCA_034552795.1</Genbank>
+SAMN36001485
+      <Genbank>GCA_034552755.1</Genbank>
+SAMN36001484
+      <Genbank>GCA_034552775.1</Genbank>
+SAMN36001483
+      <Genbank>GCA_034552735.1</Genbank>
+SAMN36001465
+      <Genbank>GCA_034552695.1</Genbank>
+SAMN36001482
+      <Genbank>GCA_034552715.1</Genbank>
+SAMN36001481
+      <Genbank>GCA_034552675.1</Genbank>
+SAMN36001480
+      <Genbank>GCA_034552655.1</Genbank>
+SAMN36001479
+      <Genbank>GCA_034552615.1</Genbank>
+SAMN36001478
+      <Genbank>GCA_034552575.1</Genbank>
+SAMN36001477
+      <Genbank>GCA_034552595.1</Genbank>
+SAMN36001476
+      <Genbank>GCA_034552635.1</Genbank>
+SAMN36001475
+      <Genbank>GCA_034552505.1</Genbank>
+SAMN36001474
+      <Genbank>GCA_034552475.1</Genbank>
+SAMN36001473
+      <Genbank>GCA_034552535.1</Genbank>
+SAMN36001464
+      <Genbank>GCA_034552495.1</Genbank>
+SAMN36001463
+      <Genbank>GCA_034527775.1</Genbank>

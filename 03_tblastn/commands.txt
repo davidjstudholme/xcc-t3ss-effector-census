@@ -1,0 +1,17 @@
+# Assuming that BioPython and NCBI BLAST are installed in this Conda environment
+conda activate biopython_env
+
+# Get sequences of effectors
+ln -s ../01_xanthomonas_dokuwiki/dokuwiki-2023-10-03.faa .
+
+# Make symlinks to genome sequences
+ln -s ../02_genomes/*.fasta .
+
+# Create BLAST databases
+for i in *.fasta; do echo $i; formatdb -pF -i $i; done
+
+# Perform tblastn searches
+for i in *.fasta; do echo $i; tblastn -query dokuwiki-2023-10-03.faa -db $i -evalue 0.0000000001 -seg no -out dokuwiki-2023-10-03.versus.$i.tblastn -outfmt 6; done
+
+# Parse the BLAST results into a table
+python3 parse_blast.py
